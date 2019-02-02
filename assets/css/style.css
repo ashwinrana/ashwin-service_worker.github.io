@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+ .img{
+     height: 200px;
+     widows: 200px;
+ }
+
+ nav ul li {
+     display: inline;
+     background-color: darkolivegreen;
+ }
+
+ nav ul li a{
+    text-decoration: none;
+    cursor: pointer;
+}
